@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class NotesPasswordManger {
 
+
         private static Map<String, String> notes = new HashMap<>();
         private static Map<String, String> passwords = new HashMap<>();
 
